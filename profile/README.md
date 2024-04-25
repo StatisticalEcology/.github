@@ -5,6 +5,4 @@ This is the GitHub organization for the Centre for Statistics in Ecology, the En
 ## Organization Structure 
 
 ## Useful Links 
-- **[SEEC Website](https://science.uct.ac.za/seec)**
-  
-
+- **<a href="https://science.uct.ac.za/seec" target="_blank">SEEC Website</a>**
