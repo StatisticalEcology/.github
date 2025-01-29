@@ -6,3 +6,13 @@ This is the GitHub organization for the Centre for Statistics in Ecology, the En
 
 ## Useful Links 
 - **<a href="https://science.uct.ac.za/seec" target="_blank">SEEC Website</a>**
+
+## New to SEEC? 
+
+Make sure you have been: 
+
+- Added to the mailing lists. 
+- Added to the web site.
+- Added to GitHub (You probably are if you're seeing this)
+
+If you have any administrative queries, please email ane.cloete@uct.ac.za. 
