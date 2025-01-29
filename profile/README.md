@@ -1,6 +1,6 @@
 [![SEEC-03-B-WHITE.png](https://i.postimg.cc/13wycw7q/SEEC-03-B-WHITE.png)](https://postimg.cc/DSfV7JTv)
 <p align="center">
-  <img src="https://i.postimg.cc/13wycw7q/SEEC-03-B-WHITE.png" alt="SEEC Logo" width="500">
+  <img src="https://i.postimg.cc/13wycw7q/SEEC-03-B-WHITE.png" alt="SEEC Logo" width="500", height="100%">
 </p>
 
 # Centre for Statistics in Ecology, the Environment, and Conservation (SEEC) 
