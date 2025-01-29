@@ -1,5 +1,6 @@
-![alt text](https://raw.githubusercontent.com/anemone19/Branding-Materials/main/SEEC%20Logos/SEEC_03_B_WHITE.png)
 
+
+![SEEC Logo](https://imgur.com/a/7UxVesZ)
 
 # Centre for Statistics in Ecology, the Environment, and Conservation (SEEC) 
 
