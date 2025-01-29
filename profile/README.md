@@ -1,5 +1,6 @@
-
-![alt text](https://github.com/[anemone19]/[Branding Materials]/SEEC Logos/SEEC_03_B_WHITE.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anemone19/Branding-Materials/main/SEEC%20Logos/SEEC_03_B_WHITE.png" alt="SEEC Logo" width="300">
+</p>
 
 # Centre for Statistics in Ecology, the Environment, and Conservation (SEEC) 
 
