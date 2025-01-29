@@ -1,5 +1,5 @@
 [![SEEC-03-B-WHITE.png](https://i.postimg.cc/13wycw7q/SEEC-03-B-WHITE.png)](https://postimg.cc/DSfV7JTv)
-
+[![SEEC-03-B-WHITE-300dpi.png](https://i.postimg.cc/J0Df7C9k/SEEC-03-B-WHITE-300dpi.png)](https://postimg.cc/GTR7zV3L)
 # Centre for Statistics in Ecology, the Environment, and Conservation (SEEC) 
 
 This is the GitHub organization for the Centre for Statistics in Ecology, the Environment, and Conservation (SEEC). SEEC is dedicated to pioneering research and statistical analysis in the fields of ecology, environmental science, and conservation.
