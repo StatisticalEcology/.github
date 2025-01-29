@@ -2,7 +2,7 @@
 
 This is the GitHub organization for the Centre for Statistics in Ecology, the Environment, and Conservation (SEEC). SEEC is dedicated to pioneering research and statistical analysis in the fields of ecology, environmental science, and conservation.
 
-## Organization Structure 
+## The team 
 
 SEEC consists of a Core Team of 28 members. This
 includes 11 academics in GOB-funded positions (9 in the Department of
@@ -19,7 +19,7 @@ at the same time. In addition to the Core Team and our postgraduate students, SE
 other categories of affiliation, with various degrees of involvement.
 
 
-## Useful Links 
+## Useful links 
 - **<a href="https://science.uct.ac.za/seec" target="_blank">SEEC Website</a>**
 
 ## New to SEEC? 
