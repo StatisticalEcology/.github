@@ -1,4 +1,4 @@
-
+[![SEEC-03-B-WHITE.png](https://i.postimg.cc/13wycw7q/SEEC-03-B-WHITE.png)](https://postimg.cc/DSfV7JTv)
 
 ![SEEC Logo](https://imgur.com/a/7UxVesZ)
 
