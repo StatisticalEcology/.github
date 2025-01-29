@@ -1,3 +1,4 @@
+![SEEC Logo](../Branding-Materials/SEEC_03_B_WHITE.png)
 
 # Centre for Statistics in Ecology, the Environment, and Conservation (SEEC) 
 
